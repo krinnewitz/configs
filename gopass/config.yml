@@ -1,0 +1,24 @@
+root:
+  askformore: false
+  autoimport: false
+  autosync: true
+  cliptimeout: 45
+  noconfirm: false
+  nopager: false
+  path: /home/kim/.password-store
+  safecontent: false
+  usesymbols: false
+  nocolor: false
+mounts:
+  plapadoo-shared:
+    askformore: false
+    autoimport: false
+    autosync: true
+    cliptimeout: 45
+    noconfirm: false
+    nopager: false
+    path: /home/kim/.password-store-plapadoo
+    safecontent: false
+    usesymbols: false
+    nocolor: false
+version: 1.6.2-git+HEAD
